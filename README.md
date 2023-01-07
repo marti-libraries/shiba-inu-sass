@@ -2,7 +2,7 @@
 <html>
   <body>
     <h1>Sassy Shib</h1>
-    <img src="https://i.imgur.com/aBHcT8j.jpg" alt="Sassy Shib logo" width="200" height="200" />
+    <img src="https://as1.ftcdn.net/v2/jpg/03/36/52/36/1000_F_336523631_fKrEHvSKM4cFCZMYJPEOdL1iQr2zl1UH.jpg" alt="Sassy Shib logo" width="200" height="200" />
     <h2>Description</h2>
     <p>Sassy Shib is a SaSS library that provides various styling options for your shiba inu-themed projects. From cute and playful to elegant and sophisticated, Sassy Shib has a look that will suit any shiba inu enthusiast's taste. With Sassy Shib, you can easily add a touch of charm to your website or application.</p>
     <h2>Getting Started</h2>
@@ -21,7 +21,7 @@
     <h2>Installing</h2>
     <p>To install Sassy Shib, follow these steps:</p>
     <ol>
-      <li>Clone the repository: `git clone https://github.com/marti-libraries/shiba-inu-sass`</li>
+      <li>Clone the repository: `git clone https://github.com/marti-libraries/shiba-inu-sass.git`</li>
       <li>
     <h2>Running the Tests</h2>
         <p>To run the tests for Sassy Shib, use the `npm test` command. This will run the test suite and output the results to the console.</p>
